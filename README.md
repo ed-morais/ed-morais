@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm @ed-morais</h1>
+<h1 align="center">Hi 👋, I'm Edilson Morais</h1>
 <h3 align="center">A passionate fullstack developer from Brazil. Right now I'm pursuing a Bachelor of Computer Science degree at State University of Piauí.</h3>
 
 - 📫 How to reach me **moraisbritoedilson@gmail.com**
