@@ -12,6 +12,5 @@ I am a passionate full-stack developer with a strong background in software deve
 
 ## Contact
 - LinkedIn: [Edilson Morais](https://www.linkedin.com/in/ed-morais/)
-- GitHub: [Edilson Morais](https://github.com/ed-morais)
 
 If you have any questions or would like to work together, feel free to reach out!
