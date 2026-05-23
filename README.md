@@ -19,7 +19,7 @@ Received ATR's Excellent Research Award (FY2025), 1 of 17 selected from the proj
 ## Before ATR
 
 - **Sourcerers** — Built React and Node.js applications. Serverless backend.
-- **Higia Health Technology** (Brazil) — Worked on a medical image viewer built on top of [OHIF](https://github.com/OHIF/Viewers) (open source). React + Django. Browser-based diagnostic tool used in clinical environments. Contributed to frontend and backend across the stack. TDD.
+- **Higia Health Technology** — Worked on a medical image viewer built on top of [OHIF](https://github.com/OHIF/Viewers) (open source). React + Django. Browser-based diagnostic tool used in clinical environments. Contributed to frontend and backend across the stack. TDD.
 
 ## Stack
 
