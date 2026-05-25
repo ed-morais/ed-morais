@@ -27,7 +27,7 @@ Python, JavaScript, TypeScript, React, Node.js, Django, WebSocket, WebRTC, OpenC
 
 ## Links
 
-- [LinkedIn](https://www.linkedin.com/in/edilsonmorais)
+- [LinkedIn](https://www.linkedin.com/in/edilson-morais)
 - moraisbritoedilson@gmail.com
 
 ## Education
