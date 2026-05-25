@@ -16,7 +16,7 @@ CAPF ran at [Osaka Expo 2025](https://www.expo2025.or.jp/en/) in the ["Future of
 
 Received ATR's Excellent Research Award (FY2025), 1 of 17 selected from the project team.
 
-## Before ATR
+## Past roles
 
 - **Sourcerers** — Built React and Node.js applications. Serverless backend.
 - **Higia Health Technology** — Worked on a medical image viewer built on top of [OHIF](https://ohif.org/) (open source). React + Django. Browser-based diagnostic tool used in clinical environments. Contributed to frontend and backend across the stack. TDD.
