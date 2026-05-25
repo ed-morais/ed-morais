@@ -6,7 +6,7 @@ R&D Engineer at [ATR](https://www.atr.jp/index_e.html) (Kyoto, Japan). Full-stac
 
 **Cybernetic Avatar Platform (CAPF)** — A web platform for operating robots and cybernetic avatars remotely. Built under Japan's [Moonshot R&D Program](https://www.jst.go.jp/moonshot/en/program/goal1/). Runs on AWS. I write frontend (Vue, JavaScript), backend integration (WebSocket, WebRTC), and tooling around the platform.
 
-CAPF ran at [Osaka Expo 2025](https://www.expo2025.or.jp/en/) in the "Future of Life" pavilion directed by Prof. Hiroshi Ishiguro. 10 robots operating simultaneously, 9:00–20:00 daily, 184 consecutive days, 2,000+ hours of uptime.
+CAPF ran at [Osaka Expo 2025](https://www.expo2025.or.jp/en/) in the ["Future of Life"](https://www.expo2025.or.jp/en/expo-archive/project/ishiguro/) pavilion directed by Prof. Hiroshi Ishiguro. 10 robots operating simultaneously, 9:00–20:00 daily, 184 consecutive days, 2,000+ hours of uptime.
 
 **Avatar movement** — Training a model to make avatar motion look less robotic during teleoperation.
 
