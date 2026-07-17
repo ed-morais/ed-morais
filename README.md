@@ -23,7 +23,7 @@ Received ATR's Excellent Research Award (FY2025), 1 of 17 selected from the proj
 
 ## Stack
 
-Python, JavaScript, TypeScript, React, Node.js, Django, WebSocket, WebRTC, OpenCV, PyTorch, YOLO, AWS, Docker, Linux, Raspberry Pi
+Python, JavaScript, TypeScript, React, Node.js, Django, WebSocket, WebRTC, OpenCV, PyTorch, YOLO, AWS, Docker, Linux
 
 ## Links
 
